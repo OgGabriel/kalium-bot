@@ -1,4 +1,4 @@
 # kalium-bot
-Bot do antigo servidor da GC tool Kalium Scanner
+Old GC server bot, his name is Kalium
 
-### Edite com as informações do seu servidor caso queira usar/adicionar coisas no bot
+### Edit with your server info want to use/add stuff in bot
